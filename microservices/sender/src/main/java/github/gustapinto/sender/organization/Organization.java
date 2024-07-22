@@ -1,4 +1,4 @@
-package github.gustapinto.sender.model;
+package github.gustapinto.sender.organization;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;

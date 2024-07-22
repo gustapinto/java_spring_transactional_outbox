@@ -1,6 +1,5 @@
-package github.gustapinto.sender.repository;
+package github.gustapinto.sender.organization;
 
-import github.gustapinto.sender.model.Organization;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
